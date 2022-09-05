@@ -1,1 +1,1 @@
-echo "Shell, I/O Redirections and filters"
+Shell redirections
