@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "My README file"
+Shell, I/O Redirections and filters
